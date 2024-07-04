@@ -1,0 +1,6 @@
+# Ignore configuration files
+config.json
+
+# Ignore API keys
+GROQ_API_KEY*
+SERP_API_KEY*
